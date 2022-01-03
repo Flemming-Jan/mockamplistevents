@@ -8,6 +8,7 @@
       "text": "Lernen Sie unsere Hochschule, unsere Studiengänge und unser Team bei unserem Tag der offenen Tür kennen.",
       "location": "Campus Berlin",
       "headline": "Tag der offenen Tür",
+      "extern": true,
       "campus": "Heidelberg"
     },
     {
